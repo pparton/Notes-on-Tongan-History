@@ -1,6 +1,6 @@
 # Primary sources of Tongan Prehistory
 
-A table of primary sources of late Tongan prehistory and the Civil War era. Another good source of this information, although dated (1972), is written by HG Cummins, titled [*Sources of Tongan Prehistory*](http://www.buoyanteconomies.com/Tonga/).
+A table of primary sources of late Tongan prehistory and the Civil War era. Another good source of this information, although dated (1972), is written by HG Cummins, titled [*Sources of Tongan Prehistory*](http://www.buoyanteconomies.com/Tonga/). Please get in touch if you want to contribute.
 
 | Year | Name | Nationality | Type | Islands visited | References |
 | --- | --- | --- | --- | --- | --- |
@@ -20,9 +20,12 @@ A table of primary sources of late Tongan prehistory and the Civil War era. Anot
 | April 1797 | Vason | British | Missionary | Tongatapu, Ha'apai | https://archive.org/details/anauthenticnarr00vasogoog; Orange, *Narrative of the Late George Vason of Nottingham: one of the First Missionaries Sent Out by the London Missionary Society in the Ship Duff, Captain Wilson, 1796. Giving an Account of his Voyage Outward, Settlement in Tongataboo, Apostacy, Heathen Life, Escape from the Island, Return to England, Subsequent Life, and Death in 1838, aged 66 years. With a preliminary Essay, on the Geography of the South Sea Islands, also a Description of the Manners, Habits, Customs, Traditions, &c. &c. of the Inhabitants and a succinct Account of the South Sea Island Mission* |
 | 1804 | Morely | British| Civilian | Tongatapu | http://nla.gov.au/nla.news-article626473 http://nla.gov.au/nla.news-article626483 http://www.jstor.org.virtual.anu.edu.au/stable/25169426 |
 | December 1806 - 1810 | Mariner | British | Resident | Vava'u, Tongatapu | https://archive.org/details/anaccountnative01martgoog |
+| July 1826 - 1850 | Thomas, John, | British | Missionary | Tongatapu, Ha'apai, Vava'u, Niua | TBA |
 | 20 April - 15 May 1827 | D'Urville | French | Sailor | Tongatapu | Tome 4 |
-| 22 May - 8 June/July? 1830 | Orlebar | English | Sailor | Tongatapu, Vava'u | Orlebar, *A Midshipmans journal on board HMS Seringapatam* |
+| 22 May - 8 June/July? 1830 | Waldegrave | English | Sailor | Tongatapu, Vava'u | Waldegrave, [Extracts from a private journal kept on board H.M.S. Seringapatam, in the Pacific, 1830](http://nla.gov.au/nla.obj-52776658); Orlebar, *A Midshipmans journal on board HMS Seringapatam* |
 | 13 August - 26 August 1827 | Dillon | Irish | Sailor | Eua, Tongatapu | [Dillon P, *Narrative and successful result of a voyage in the South Seas performed by order of the government of British India, to ascertain the actual fate of La Pérouse's expedition*](https://archive.org/details/narrativeandsuc02dillgoog)
 | November 1837 | Dillon | Irish | Sailor | Tongatapu | http://www.jstor.org.virtual.anu.edu.au/stable/pdf/25168277.pdf |
 | October 1838 | D'Urville | French | Sailore | Vava'u, Ha'apai | https://archive.org/details/voyageaupolesude04dumo_0 |
 | 22 April - May 1840 | Wilkes | American | Sailor | Tongatapu | Wilkes, *Narrative of the United States Exploring Expedition* |
+| 29 July 1844 | Home, Everard | British | Sailor | Ata, Tongatapu | Home, Everard. [*Notes among the islands of the Pacific - Extract from the Remarks of HMS North Star: Capt Sir E Home RN*](https://babel.hathitrust.org/cgi/pt?id=nyp.33433066363916;view=1up;seq=21) pages 449-456, 580 - 589 |
+| 30 July - ? 1849 | Erskine | British | Sailor | Vava'u, Ha'apai, Tongatapu | Erskine, *A cruise among the islands of the western Pacific* |
